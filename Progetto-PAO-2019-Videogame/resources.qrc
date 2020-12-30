@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Immagini/apeescapeps1.jpg</file>
+        <file>Immagini/assassinscreedodysseycollectoredition.jpg</file>
+        <file>Immagini/battefield1collectoredition.jpg</file>
+        <file>Immagini/crashbashps1.jpg</file>
+        <file>Immagini/cupheadkey.jpg</file>
+        <file>Immagini/darksiders2.jpg</file>
+        <file>Immagini/dlcringedcutydarksouls3.jpg</file>
+        <file>Immagini/dlcthesims4vampire.jpg</file>
+        <file>Immagini/doom.jpg</file>
+        <file>Immagini/dyinglight.jpg</file>
+        <file>Immagini/farcryprimal.jpg</file>
+        <file>Immagini/frostpunk.jpg</file>
+        <file>Immagini/halo3.jpg</file>
+        <file>Immagini/harleyquiinrevenge.jpg</file>
+        <file>Immagini/horizonZeroDawn.jpg</file>
+        <file>Immagini/horizonZeroDawndlc.jpg</file>
+        <file>Immagini/kingdomhearts3.jpg</file>
+        <file>Immagini/metalgearsolid.jpg</file>
+        <file>Immagini/mortalkombatx.jpg</file>
+        <file>Immagini/ninokuniII.jpg</file>
+        <file>Immagini/reddeadredemptioncollectoredition.jpg</file>
+        <file>Immagini/starwarsknightoldrepublic.jpg</file>
+        <file>Immagini/thebindingofisaacrebirth.jpg</file>
+        <file>Immagini/thewitcher3dlc.jpg</file>
+        <file>Immagini/thiswarofminecompleteedition.jpg</file>
+        <file>Immagini/tropico6.jpg</file>
+        <file>Immagini/vampyrlimitededition.jpg</file>
+    </qresource>
+</RCC>

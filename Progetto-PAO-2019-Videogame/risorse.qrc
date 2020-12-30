@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Salvataggio_Dati_XML/dati.xml</file>
+        <file>Salvataggio_Dati_XML/Immagini/apeescapeps1.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/assassinscreedodysseycollectoredition.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/battefield1collectoredition.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/crashbashps1.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/cupheadkey.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/darksiders2.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/dlcringedcutydarksouls3.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/dlcthesims4vampire.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/doom.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/dyinglight.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/farcryprimal.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/frostpunk.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/halo3.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/harleyquiinrevenge.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/horizonZeroDawn.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/horizonZeroDawndlc.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/kingdomhearts3.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/metalgearsolid.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/mortalkombatx.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/ninokuniII.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/reddeadredemptioncollectoredition.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/starwarsknightoldrepublic.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/thebindingofisaacrebirth.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/thewitcher3dlc.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/thiswarofminecompleteedition.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/tropico6.jpg</file>
+        <file>Salvataggio_Dati_XML/Immagini/vampyrlimitededition.jpg</file>
+    </qresource>
+</RCC>
