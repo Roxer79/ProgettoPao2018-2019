@@ -41,6 +41,6 @@ public:
     void clearQLineEditVideogame() const;
 };
 
-//qmessagebox da fare if else che mi ritrona un bool così posso unire i vari layout senzza bestemmiare a dio
+//qmessagebox da fare if else che mi ritrona un bool così posso unire i vari layout
 
 #endif // LAYOUTINSERISCIVIDEOGAME_H
